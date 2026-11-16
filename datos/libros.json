@@ -1,0 +1,9 @@
+[
+    {
+        "id": 2,
+        "titulo": "string",
+        "autor": "string",
+        "anio": 1000,
+        "disponible": true
+    }
+]
